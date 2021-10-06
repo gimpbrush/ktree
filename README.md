@@ -2,7 +2,7 @@
 ### ***a nice brush that sorta looks like a tree. Made in Krita for GIMP.***
 ## How to install
 ### for GIMP
-1. download the gimp brush (.gbr)
+1. download the gimp brush (.gbr) and save it(Do not open with an application)
 2. open GIMP
 3. click on the paintbrush icon
 4. Right click on the panel of brushes on the right site
